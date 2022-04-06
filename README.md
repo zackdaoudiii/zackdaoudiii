@@ -2,7 +2,7 @@
 #I'am zakaria Daoudi Junion Fullstack developer
 
 ## With What I Work 
-* [General Info](#general-information)
+* [Spring Boot]
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)

@@ -1,5 +1,5 @@
 ## Hi there
-#I'am zakaria Daoudi Junion Fullstack developer
+#I'am zakaria Daoudi Fullstack developer
 
 ## With What I Work 
 * Back End : 
